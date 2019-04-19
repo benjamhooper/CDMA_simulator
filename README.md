@@ -1,5 +1,5 @@
 # CDMA Simulator
-### Code Division Multople Access Protocol Simulator
+### Code Division Multiple Access Protocol Simulator
 #### Two Senders
 
     Assumptions:
