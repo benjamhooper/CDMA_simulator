@@ -1,5 +1,5 @@
 #CDMA.py Version 2.0
-#Code Division Multople Access Protocol Simulator
+#Code Division Multiple Access Protocol Simulator
 
 def encode(s,bit):
 	Z=[]
